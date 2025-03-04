@@ -24,3 +24,5 @@ spots = get_parking_spots_bboxes(connected_components)
 spots_status = [None for j in spots]
 
 diffs = [None for j in spots]
+
+
