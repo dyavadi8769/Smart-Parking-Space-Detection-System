@@ -7,7 +7,7 @@
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
-- [Configuration](#configuration)
+- [Project Workflow](#project-workflow)
 
 
 
