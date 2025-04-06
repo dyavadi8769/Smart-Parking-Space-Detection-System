@@ -3,12 +3,17 @@
 ![Parking Detection Demo](demo.gif)
 
 ## Table of Contents
+- [Demo](#demo)
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Project Workflow](#project-workflow)
 
+
+## Demo
+
+![Demo1](demo/parking.gif)
 
 
 ## Project Overview
