@@ -13,7 +13,7 @@
 
 ## Demo
 
-![Demo](demo/parking.mp4)
+![Demo](demo/parking.gif)
 
 
 ## Project Overview
